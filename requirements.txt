@@ -1,0 +1,6 @@
+i should install those
+
+streamlit
+streamlit-chat
+openai
+python-dotenv
